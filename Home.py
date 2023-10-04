@@ -4,7 +4,6 @@ from os import walk
 from shutil import move
 import click
 import getpass
-import matplotlib.pyplot as plt
 import numpy             as np
 import os                as os
 import pandas            as pd
