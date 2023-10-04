@@ -30,9 +30,9 @@ st.title("Welcome To The SoUL Project!")
 
 colA1, colB1 = st.columns(2)
 colA1.title("Leadership")
-colA1.image("images/leadership.png", width=700)
+colA1.image("images/leadership.png")
 colB1.title("Brains In Congress")
-colB1.image("images/2brainsincongress-1.png", width=700)
+colB1.image("images/2brainsincongress-1.png")
 
 st.subheader("SoUL Mission Statement")
 st.markdown("""
